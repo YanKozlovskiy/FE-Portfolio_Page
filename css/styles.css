@@ -18,7 +18,7 @@ a {
   color: #fff;
 }
 a:hover {
-  color: #76EAFF;
+  color: #A2BAF2;
 }
 
 /* Section Styles */
@@ -56,11 +56,13 @@ div.card.center-element {
   transition: all .5s;
 }
 .nav a:hover {
-  color: #888;
+  color: #4F8BC3;
 }
 
 .main-nav .selected {
-  color: #888;
+  color: #579CDE;
+  border-bottom: 2px double;
+  border-color: #74A7E4;
 }
 
 header {
@@ -108,7 +110,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #888;
+  border-color: #a5a5a5;
 }
 
 ul.skills {
